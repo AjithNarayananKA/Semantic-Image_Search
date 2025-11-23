@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 streamlit
+nest_asyncio
 coloredlogs
 pydantic
 langchain_core
